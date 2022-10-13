@@ -20,6 +20,11 @@ class Turn {
         if(this.correct = true) {
             return 'correct!'
         } else {return 'incorrect!'}
+
     }
 }
+
+
+
+
 module.exports = Turn
